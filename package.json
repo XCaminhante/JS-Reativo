@@ -1,0 +1,20 @@
+{
+  "name": "JavaScript-Reativo",
+  "version": "1.0.0",
+  "description": "Objetos e propriedades reativos (geram e tratam eventos)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XCaminhante/JavaScript-Reativo.git"
+  },
+  "keywords": [],
+  "author": "X Caminhante <xcaminhante@i2pmail.org>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/XCaminhante/JavaScript-Reativo/issues"
+  },
+  "homepage": "https://github.com/XCaminhante/JavaScript-Reativo#readme"
+}
