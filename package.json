@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XCaminhante/JavaScript-Reativo.git"
+    "url": "git+https://github.com/XCaminhante/JS-Reativo.git"
   },
   "keywords": [],
   "author": "X Caminhante <xcaminhante@i2pmail.org>",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/XCaminhante/JavaScript-Reativo/issues"
+    "url": "https://github.com/XCaminhante/JS-Reativo/issues"
   },
-  "homepage": "https://github.com/XCaminhante/JavaScript-Reativo#readme"
+  "homepage": "https://github.com/XCaminhante/JS-Reativo.git#readme"
 }
